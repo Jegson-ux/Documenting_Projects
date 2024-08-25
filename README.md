@@ -1,14 +1,14 @@
 # Superstores Sales Analysis Dashboard
 
-### Project Overview 
+### [Project Overview]() 
 
 In this data analysis project, our goal is to gain valuable insights into the sales performance of a superstore throughout the year. By thoroughly examining different elements of the sales data, we aim to pinpoint patterns, offer data-driven suggestions, and develop a comprehensive understanding of the superstore's performance.
 
-### Data Sources
+### [Data Sources]()
 
 The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sales and revenue per products through the year
 
-### Tools/Installations
+### [Tools/Installations]()
 
 - PowerBI[Download here](http://microsoft.com)
 - PowerQueries: Cleaning and transformation
@@ -36,7 +36,7 @@ In the initial data preparation phase, we peformed the following tasks;
 
 ![Screenshot 2024-08-25 001957](https://github.com/user-attachments/assets/2efc79ce-eb90-435e-a308-5473a97df3d9)
 
-## Recommendation
+## [Recommendation]()
 
 Based on the analysis I recommend the following;
 
