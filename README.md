@@ -14,7 +14,7 @@ The primary dataset used for this analysis is the "sales_data.csv" file, contain
 - PowerQueries: Cleaning and transformation
 - PowerBI: Creating Visuals
 
-### Data cleaning/Preparation
+### [Data cleaning/Preparation]()
 
 In the initial data preparation phase, we peformed the following tasks;
 
@@ -22,7 +22,7 @@ In the initial data preparation phase, we peformed the following tasks;
  - Handling and replacing missing values.
  - Cleaning and formatting. 
 
-### Exploratory Data Analysis (EDA)
+### [Exploratory Data Analysis](EDA)
 
  - Percentage ratio of each sales channel. 
  - Revenue generated from January through December 
