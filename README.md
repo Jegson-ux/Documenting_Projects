@@ -1,4 +1,4 @@
-d # Superstores Sales Analysis Dashboard
+# Superstores Sales Analysis Dashboard
 
 ### [Project Overview]() 
 
