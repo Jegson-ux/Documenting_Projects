@@ -6,7 +6,7 @@ In this data analysis project, our goal is to gain valuable insights into the sa
 
 ### [Data Sources]()
 
-The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sales and revenue per products through the year
+The primary dataset used for this analysis is the "superstore sales.csv" file, containing detailed information about each sales and revenue per products through the year
 
 ### [Tools/Installations]()
 
