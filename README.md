@@ -1,4 +1,4 @@
-# Superstores Sales Analysis Dashboard
+d # Superstores Sales Analysis Dashboard
 
 ### [Project Overview]() 
 
@@ -16,7 +16,7 @@ The primary dataset used for this analysis is the "superstore sales.csv" file, c
 
 ### [Data cleaning/Preparation]()
 
-In the initial data preparation phase, we peformed the following tasks;
+In the initial data preparation phase, we performed the following tasks;
 
  - Data loading and inspection.
  - Handling and replacing missing values.
